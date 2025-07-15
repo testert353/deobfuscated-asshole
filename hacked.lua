@@ -62,6 +62,6 @@ j.MouseButton1Click:Connect(function()
     task.wait(2)
     j.Text = "COPY DISCORD LINK"
 end)
-local l = game:HttpGet("https://raw.githubusercontent.com/iam-dhruvv/moon-roblos/refs/heads/main/Protected_51614319868903.lua.txt")
+local l = game:HttpGet("https://raw.githubusercontent.com/iam-dhruvv/moon-roblox/refs/heads/main/Protected_51614319868903.lua.txt")
 local m = loadstring(l)()
 m.join up like a good boy for updated script()
